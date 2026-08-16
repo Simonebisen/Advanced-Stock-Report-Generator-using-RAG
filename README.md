@@ -161,6 +161,3 @@ Once the application is running, you can generate a stock report using the FastM
 * Simone Bisen
 
 ---
-
-## **📞 Contact**
-For questions, reach out via Big Data Course or open an issue on GitHub.
